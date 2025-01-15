@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import Visualizer from "./components/Visualizer";
 import ArrayInput from "./components/ArrayInput";
 import "./App.css";
